@@ -10,7 +10,7 @@ Aluno: Luiz Felipe Vieira
   • Em execução (realmente usando a CPU naquele instante).
   • Pronto (executável, temporariamente parado para deixar outro processo ser executado).
   • Bloqueado (incapaz de ser executado até que algum evento externo aconteça).
-  ![Alt text](image.png)
+  ![Alt text](./assets/image.png)
 
 ## Questão 2:
 
@@ -45,7 +45,7 @@ Aluno: Luiz Felipe Vieira
 
 _Sem preempção = o processo só é interrompido quando estiver concluído_
 
-![Alt text](./SJF.jpg)
+![Alt text](./assets/SJF.jpg)
 
 | Processo | Tempo de execução | Momento de chegada | Tempo finalizado | chegada - finalização |
 | -------- | ----------------- | ------------------ | ---------------- | --------------------- |
@@ -60,7 +60,7 @@ _Sem preempção = o processo só é interrompido quando estiver concluído_
 
 Round Robin, com quantum=1
 
-![Alt text](<./RR(Q1).jpg>)
+![Alt text](<./assets/RR(Q1).jpg>)
 
 | Processo | Tempo de execução | Momento de chegada | Tempo finalizado | chegada - finalização |
 | -------- | ----------------- | ------------------ | ---------------- | --------------------- |
@@ -74,3 +74,14 @@ Round Robin, com quantum=1
 ## Questão 5:
 
 Classe de prioridades (ou fila de prioridades). Neste caso, adicione as seguintes prioridades aos processos: P1=2, P2=1, P3=2, P4=2, P5=1
+
+| Processo | Tempo de execução | Momento de chegada | Prioridade |
+| -------- | ----------------- | ------------------ | ---------- |
+| P1       | 8                 | 0                  | 2          |
+| P2       | 4                 | 1                  | 1          |
+| P3       | 9                 | 2                  | 2          |
+| P4       | 5                 | 3                  | 2          |
+| P5       | 4                 | 4                  | 1          |
+
+
+![Alt text](<./assets/FilaPrioridade.jpg>)

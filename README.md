@@ -2,11 +2,11 @@
 
 <img src="./assets/so.png" alt="Sistemas Operacionais" width="300"/>
 
-Bem-vindo ao repositório da disciplina de Sistemas Operacionais do curso de Engenharia de Software da PUC Minas. Aqui você encontrará minas anotações e exercícios que realize durante as aulas!
+Bem-vindo ao repositório da disciplina de Sistemas Operacionais do curso de Engenharia de Software da PUC Minas. Aqui você encontrará anotações e exercícios que realize durante as aulas!
 
 ## 🚀 Visão Geral
 
-Neste repositório, você encontrará uma coleção de atividades e anotações que desenvolvi ao longo do curso de Sistemas Operacionais. Abordamos diversos tópicos, incluindo:
+Assuntos abordados pelo professor
 
 - Estrutura de um sistema operacional.
 - Gerência de processos: processos, comunicação, escalonamento, multiprocessamento, programação concorrente.
@@ -31,8 +31,3 @@ Neste repositório, você encontrará uma coleção de atividades e anotações 
 - TANENBAUM, Andrew S.; BOS, Herbert. Sistemas operacionais modernos. 4. ed. São Paulo: Pearson Education do Brasil, c2016. E-book. ISBN 9788543005676.
 
 
-
-<!-- Rodapé Criativo -->
-<p align="center">
-  Prepare-se para uma jornada épica rumo à maestria em Sistemas Operacionais! 🚀💻
-</p>
